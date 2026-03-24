@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Mohamad Kaif Shaik<br>Software Engineer | Full-Stack .NET & Python Developer | Cloud & Microservices Enthusiast<br><br>I'm a Software Engineer with hands-on experience building high-scale distributed systems using Java, Spring Boot, Kafka, and AWS. I specialize in microservices architecture, real-time data pipelines, and cloud-native solutions that are reliable and production-ready at scale.<br>Currently leveling up my full-stack skills through an intensive program covering .NET 8, C# 12, ASP.NET Core Web APIs, Entity Framework, and modern frontend technologies — complemented by Agile practices, cloud computing, and system design principles.
+Hi, I'm Mohamad Kaif Shaik<br>Software Engineer | Full-Stack .NET & Python Developer | Cloud & Microservices Enthusiast<br><br>I'm a Software Engineer with hands-on experience building high-scale distributed systems using Java, Kafka, and AWS. I specialize in microservices architecture, real-time data pipelines, and cloud-native solutions that are reliable and production-ready at scale.<br>Currently leveling up my full-stack skills through an intensive program covering .NET 8, C# 12, ASP.NET Core Web APIs, Entity Framework, and modern frontend technologies — complemented by Agile practices, cloud computing, and system design principles.
 
 
 ## 🌐 Socials:
