@@ -11,9 +11,6 @@
         <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=SYSTEM.INIT()&fontSize=55&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=Backend%20Architecture%20%7C%20Competitive%20Engineering&descAlignY=58&descColor=8fd3fe" width="100%"/>
       </a>
     </td>
-    <td width="45%" align="center">
-      <img src="Satoru_Gojo_4k_Wallpaper.jpg" width="230" style="border-radius: 50%; border: 4px solid #00F0FF; box-shadow: 0 0 25px #00F0FF;"/>
-    </td>
   </tr>
 </table>
 
