@@ -8,7 +8,7 @@
   <tr>
     <td width="55%">
       <a href="https://github.com/mohamadkaifshaik">
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=SYSTEM.INIT()&fontSize=55&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=Backend%20Architecture%20%7C%20Competitive%20Engineering&descAlignY=58&descColor=8fd3fe" width="100%"/>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=750&lines=root%40kaif%3A~%24+whoami;Mohamad+Kaif+Shaik+%E2%80%94+Java+Backend+Developer;Competitive+Programmer+%7C+System+Architect;LeetCode+Knight+%7C+Meta+Hacker+Cup+%23498" alt="Typing SVG" />
       </a>
     </td>
   </tr>
