@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D50BB,100:6E48AA&height=220&section=header&text=Mohamad%20Kaif%20Shaik&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Backend%20Development&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:9D50BB,100:6E48AA&amp;height=220&amp;section=header&amp;text=Mohamad%20Kaif%20Shaik&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Backend%20Development&amp;descAlignY=55&amp;descSize=18&amp;animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=C77DFF&center=true&vCenter=true&width=650&lines=%3E+booting+up+senpai's+dev+profile...;React.js+%2B+Python+%2B+SQL+ninja;Building+RESTful+APIs+like+jutsu+scrolls;Currently+leveling+up+in+AI+%2F+RAG+arts;Meta+Hacker+Cup+Round+2+Qualifier+%23498" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;duration=3000&amp;pause=800&amp;color=C77DFF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=%3E+booting+up+senpai's+dev+profile...;React.js+%2B+Python+%2B+SQL+ninja;Building+RESTful+APIs+like+jutsu+scrolls;Currently+leveling+up+in+AI+%2F+RAG+arts;Meta+Hacker+Cup+Round+2+Qualifier+%23498" alt="Typing SVG" />
 
 </div>
 
 <p align="center">
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=C77DFF" /></a>
-  <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Knight%201935-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="mailto:mohamadkaifshaik20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=C77DFF" /></a>
+  <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
+  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Knight%201935-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" /></a>
+  <a href="mailto:mohamadkaifshaik20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@ mission:      "Bring full-stack engineering + applied AI to a product-focused te
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,js,react,redux,html,css,django,flask,fastapi,postgres,mysql,redis,aws,docker,git,github,go,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,js,react,redux,html,css,django,flask,fastapi,postgres,mysql,redis,aws,docker,git,github,go,postman&amp;theme=dark" />
 
 </div>
 
@@ -88,13 +88,13 @@ Eliminated duplicate billing records from concurrent webhook deliveries using Po
 ## 🏅 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Google-Automation%20with%20Python-4285F4?style=flat-square&logo=google" />
-  <img src="https://img.shields.io/badge/Google-Linux%20%26%20SQL-4285F4?style=flat-square&logo=google" />
-  <img src="https://img.shields.io/badge/Google-Network%20Security-4285F4?style=flat-square&logo=google" />
+  <img src="https://img.shields.io/badge/Google-Automation%20with%20Python-4285F4?style=flat-square&amp;logo=google" />
+  <img src="https://img.shields.io/badge/Google-Linux%20%26%20SQL-4285F4?style=flat-square&amp;logo=google" />
+  <img src="https://img.shields.io/badge/Google-Network%20Security-4285F4?style=flat-square&amp;logo=google" />
   <br/>
-  <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/IBM-AI%20%26%20Cloud%20Computing-052FAD?style=flat-square&logo=ibm" />
-  <img src="https://img.shields.io/badge/Coursera-REST%20API%20Testing%20(Postman)-0056D2?style=flat-square&logo=coursera&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=flat-square&amp;logo=amazonaws&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM-AI%20%26%20Cloud%20Computing-052FAD?style=flat-square&amp;logo=ibm" />
+  <img src="https://img.shields.io/badge/Coursera-REST%20API%20Testing%20(Postman)-0056D2?style=flat-square&amp;logo=coursera&amp;logoColor=white" />
 </p>
 
 ---
@@ -102,27 +102,28 @@ Eliminated duplicate billing records from concurrent webhook deliveries using Po
 ## 📊 Stats Dashboard
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mohamadkaifshaik&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=C77DFF&icon_color=ff7edb&text_color=ffffff" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamadKaifShaik&theme=radical&hide_border=true&background=1a1b27&ring=C77DFF&fire=ff7edb&currStreakLabel=C77DFF" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=1a1b27&amp;title_color=C77DFF&amp;icon_color=ff7edb&amp;text_color=ffffff" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&amp;theme=radical&amp;hide_border=true&amp;background=1a1b27&amp;ring=C77DFF&amp;fire=ff7edb&amp;currStreakLabel=C77DFF" width="48%" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadkaifshaik&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=C77DFF&text_color=ffffff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=1a1b27&amp;title_color=C77DFF&amp;text_color=ffffff" width="48%" />
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mohamakaifshaik&theme=radical&no-frame=true&margin-w=8&row=1" width="90%" />
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&amp;theme=radical&amp;no-frame=true&amp;margin-w=8&amp;row=1" width="90%" />
 </div>
-
 
 ---
 
 ## 🌙 Contact the Guild
 
 <p align="center">
-  <a href="mailto:mohamadkaifshaik20@gmail.com"><img src="https://img.shields.io/badge/Email-mohamadkaifshaik20%40gmail.com-C77DFF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:mohamadkaifshaik20@gmail.com"><img src="https://img.shields.io/badge/Email-mohamadkaifshaik20%40gmail.com-C77DFF?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
+  <br/>
+  <img src="https://img.shields.io/badge/Phone-8309993938-6E48AA?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E48AA,100:9D50BB&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6E48AA,100:9D50BB&amp;height=120&amp;section=footer&amp;animation=fadeIn" width="100%"/>
 
 </div>
