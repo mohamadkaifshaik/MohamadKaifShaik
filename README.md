@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/13d2jHlSlxklVe/giphy.gif](https://media1.tenor.com/m/X9drSN03UMUAAAAC/satoru-gojo-acenando-satoru-gojo-hello.gif)" width="320" alt="anime coding banner"/>
+  <img src="https://media1.tenor.com/m/X9drSN03UMUAAAAC/satoru-gojo-acenando-satoru-gojo-hello.gif" width="320" alt="anime coding banner"/>
 </p>
 
 ---
