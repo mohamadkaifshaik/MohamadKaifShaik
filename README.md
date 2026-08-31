@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:9D50BB,100:6E48AA&amp;height=220&amp;section=header&amp;text=Mohamad%20Kaif%20Shaik&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Backend%20Development&amp;descAlignY=55&amp;descSize=18&amp;animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;duration=3000&amp;pause=800&amp;color=C77DFF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=%3E+booting+up+senpai's+dev+profile...;React.js+%2B+Python+%2B+SQL+ninja;Building+RESTful+APIs+like+jutsu+scrolls;Currently+leveling+up+in+AI+%2F+RAG+arts;Meta+Hacker+Cup+Round+2+Qualifier+%23498" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;duration=3000&amp;pause=800&amp;color=C77DFF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=%3E+booting+up+senpai%27s+dev+profile...;React.js+%2B+Python+%2B+SQL+ninja;Building+RESTful+APIs+like+jutsu+scrolls;Currently+leveling+up+in+AI+%2F+RAG+arts;Meta+Hacker+Cup+Round+2+Qualifier+%23498" alt="Typing SVG" />
 
 </div>
 
@@ -102,16 +102,16 @@ Eliminated duplicate billing records from concurrent webhook deliveries using Po
 ## 📊 Stats Dashboard
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=1a1b27&amp;title_color=C77DFF&amp;icon_color=ff7edb&amp;text_color=ffffff" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&amp;theme=radical&amp;hide_border=true&amp;background=1a1b27&amp;ring=C77DFF&amp;fire=ff7edb&amp;currStreakLabel=C77DFF" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=mohamadkaifshaik&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=1a1b27&amp;title_color=C77DFF&amp;icon_color=ff7edb&amp;text_color=ffffff" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadkaifshaik&amp;theme=radical&amp;hide_border=true&amp;background=1a1b27&amp;ring=C77DFF&amp;fire=ff7edb&amp;currStreakLabel=C77DFF" width="48%" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=1a1b27&amp;title_color=C77DFF&amp;text_color=ffffff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadkaifshaik&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=1a1b27&amp;title_color=C77DFF&amp;text_color=ffffff" width="48%" />
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&amp;theme=radical&amp;no-frame=true&amp;margin-w=8&amp;row=1" width="90%" />
+<img src="https://github-profile-trophy.vercel.app/?username=mohamadkaifshaik&amp;theme=radical&amp;no-frame=true&amp;margin-w=8&amp;row=1" width="90%" />
 </div>
 
 ---
