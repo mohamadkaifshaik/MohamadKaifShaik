@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:9D50BB,100:6E48AA&amp;height=220&amp;section=header&amp;text=Mohamad%20Kaif%20Shaik&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Backend%20Development&amp;descAlignY=55&amp;descSize=18&amp;animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:9D50BB,100:6E48AA&amp;height=220&amp;section=header&amp;text=Mohamad%20Kaif%20Shaik&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Software%20Engineer%20%7C%20Full-Stack%20and%20Backend%20Development&amp;descAlignY=55&amp;descSize=18&amp;animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;duration=3000&amp;pause=800&amp;color=C77DFF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=%3E+booting+up+senpai%27s+dev+profile...;React.js+%2B+Python+%2B+SQL+ninja;Building+RESTful+APIs+like+jutsu+scrolls;Currently+leveling+up+in+AI+%2F+RAG+arts;Meta+Hacker+Cup+Round+2+Qualifier+%23498" alt="Typing SVG" />
 
