@@ -121,8 +121,6 @@ Eliminated duplicate billing records from concurrent webhook deliveries using Po
 
 <p align="center">
   <a href="mailto:mohamadkaifshaik20@gmail.com"><img src="https://img.shields.io/badge/Email-mohamadkaifshaik20%40gmail.com-C77DFF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <br/>
-  <img src="https://img.shields.io/badge/Phone-8309993938-6E48AA?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E48AA,100:9D50BB&height=120&section=footer&animation=fadeIn" width="100%"/>
