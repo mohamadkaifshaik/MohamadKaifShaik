@@ -102,16 +102,16 @@ Eliminated duplicate billing records from concurrent webhook deliveries using Po
 ## 📊 Stats Dashboard
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MohamadKaifShaik&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=C77DFF&icon_color=ff7edb&text_color=ffffff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=mohamadkaifshaik&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=C77DFF&icon_color=ff7edb&text_color=ffffff" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamadKaifShaik&theme=radical&hide_border=true&background=1a1b27&ring=C77DFF&fire=ff7edb&currStreakLabel=C77DFF" width="48%" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadKaifShaik&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=C77DFF&text_color=ffffff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadkaifshaik&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=C77DFF&text_color=ffffff" width="48%" />
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MohamadKaifShaik&theme=radical&no-frame=true&margin-w=8&row=1" width="90%" />
+<img src="https://github-profile-trophy.vercel.app/?username=mohamakaifshaik&theme=radical&no-frame=true&margin-w=8&row=1" width="90%" />
 </div>
 
 
