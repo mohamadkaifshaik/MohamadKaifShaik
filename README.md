@@ -1,143 +1,131 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Mohamad%20Kaif%20Shaik&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Backend%20Software%20Engineer%20%7C%20API%20%26%20System%20Design&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D50BB,100:6E48AA&height=220&section=header&text=Mohamad%20Kaif%20Shaik&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Backend%20Development&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
-<a href="https://linkedin.com/in/mohamadkaifshaik">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:mohamadkaifshaik20@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Building+scalable+RESTful+APIs+%F0%9F%9A%80;Node.js+%7C+Python+%7C+FastAPI+%7C+Django;Optimizing+databases+%26+system+design;25%25+faster+APIs+%C2%B7+99.9%25+uptime" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=C77DFF&center=true&vCenter=true&width=650&lines=%3E+booting+up+senpai's+dev+profile...;React.js+%2B+Python+%2B+SQL+ninja;Building+RESTful+APIs+like+jutsu+scrolls;Currently+leveling+up+in+AI+%2F+RAG+arts;Meta+Hacker+Cup+Round+2+Qualifier+%23498" alt="Typing SVG" />
 
 </div>
 
-<br/>
+<p align="center">
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=C77DFF" /></a>
+  <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Knight%201935-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:mohamadkaifshaik20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-## 🧭 About Me
+<p align="center">
+  <img src="https://media.giphy.com/media/13d2jHlSlxklVe/giphy.gif" width="320" alt="anime coding banner"/>
+</p>
+
+---
+
+## 🎴 About This Character
 
 ```yaml
-role: Software Engineer (Backend) @ Capgemini, Bangalore
-experience: 1+ year building scalable backend services & RESTful APIs
-focus: System Design · Data Modeling · Performance Optimization · Microservices
-education: MCA, Sri Venkateswara College of Engineering (CGPA 8.10)
-competitive_programming: "Meta Hacker Cup Round 2 · LeetCode Knight (Peak 1935)"
-currently: Shipping production-grade APIs with Node.js, Python & PostgreSQL/MongoDB
+class:        "Software Engineer"
+location:     "Bangalore, Karnataka, India"
+guild:        "Capgemini Technology Services (Contract) — 09/2024 to 03/2025"
+current_arc:  "Independent Dev + AI/ML Upskilling (04/2025 – Present)"
+special_move: "Retrieval-Augmented Generation (RAG) Jutsu"
+rank:         "Meta Hacker Cup Round 2 Qualifier — Global Rank 498"
+leetcode:     "Knight, 1935 rated"
+mission:      "Bring full-stack engineering + applied AI to a product-focused team"
 ```
 
-- 🔭 Currently designing and maintaining high-performance **RESTful APIs** in production at **Capgemini**
-- ⚡ Cut API response times by **25%** through query optimization and schema redesign
-- 🧩 Comfortable across the stack — from **async processing with Redis** to **JWT-secured microservices**
-- 🏆 **Meta Hacker Cup** Round 2 Qualifier (Global Rank 498) · **LeetCode Knight**, 200+ DSA problems solved
-- 🌱 Currently exploring cloud automation & AI-driven backend systems
+- 💻 Building fast, responsive web apps with **React.js**, **Python (Django/Flask/FastAPI)**, and **SQL**
+- 🚀 Shipped 15+ secure REST APIs and cut database latency by **25%** on high-traffic endpoints
+- ⚡ Improved frontend load speed by **35%** in production
+- 🧠 Currently training in AI/ML engineering — RAG pipelines, vector databases, LLM integration
+- 🏆 Certified in Python Automation, AWS Cloud, Network Security, Linux & SQL, and API Testing
 
 ---
 
-## 🛠️ Tech Stack
+## ⚔️ Tech Arsenal
 
 <div align="center">
 
-**Languages & Frameworks**
-<br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-
-**Databases & Caching**
-<br/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-
-**Tools & DevOps**
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-
-**Architecture & Practice**
-<br/>
-<img src="https://img.shields.io/badge/REST%20APIs-6366F1?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microservices-6366F1?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/System%20Design-6366F1?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Agile%2FScrum-6366F1?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=py,js,react,redux,html,css,django,flask,fastapi,postgres,mysql,redis,aws,docker,git,github,go,postman&theme=dark" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 📜 Quest Log — Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/mohamadkaifshaik">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamadkaifshaik&repo=Flixxit&theme=tokyonight&hide_border=true&bg_color=0f172a" />
-</a>
-<a href="https://github.com/mohamadkaifshaik">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamadkaifshaik&repo=AI-Conversational-Engine&theme=tokyonight&hide_border=true&bg_color=0f172a" />
-</a>
+### 🤖 RAG Chatbot — Resume/JD Matcher
+`Python` `RAG` `ChromaDB` `Groq LLaMA 3.1`
 
-</div>
+Full-stack RAG chatbot supporting 6+ document formats (PDF, DOCX, XLSX, CSV, TXT) using SentenceTransformer embeddings, ChromaDB vector storage and cosine-similarity retrieval, exposed via a Flask REST API + web UI. Context-aware answers powered by Groq's LLaMA 3.1 (8B).
 
-**Flixxit — Movie Streaming Infrastructure (MERN Stack)**
-Full-stack media platform with a decoupled React.js frontend and a fast Node.js/Express.js backend cluster, structured MongoDB schemas for high-volume watchlist and activity data, and secure JWT-based authentication guarding all data routes.
+</td>
+<td width="50%">
 
-**AI Conversational Engine Deployment**
-A responsive AI chatbot core built with Python and FastAPI exposing low-latency RESTful conversational endpoints, taken from a local prototype to a live, publicly accessible production cloud stack.
+### 📚 The Personal Book Manager
+`Next.js` `MongoDB` `JWT` `React`
 
-> Update the repo names above (`Flixxit`, `AI-Conversational-Engine`) to match your actual GitHub repository names so the pinned cards render correctly.
+Full-stack book tracking app with Next.js (App Router), MongoDB, and JWT auth stored in httpOnly cookies. Filterable dashboard with status/tag organization, bcrypt-hashed credentials, and strict per-user data isolation. Deployed on Vercel.
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" colspan="2">
 
-## 📊 GitHub Stats
+### 🔗 Webhook Ingest
+`Go` `PostgreSQL` `Redis` `Concurrency`
 
-<div align="center">
+Eliminated duplicate billing records from concurrent webhook deliveries using PostgreSQL `ON CONFLICT DO NOTHING` inside atomic transactions. Fixed silent data loss via decoupled async processing and shutdown tracking — queue-based design scaling to **10K webhooks/sec**.
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohamadkaifshaik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6366f1&icon_color=6366f1&text_color=e2e8f0" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadkaifshaik&theme=tokyonight&hide_border=true&background=0f172a&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadkaifshaik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6366f1&text_color=e2e8f0" width="40%"/>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🏅 Certifications
 
-- ✅ Google Cybersecurity Professional Certificate (2025)
-- ✅ Google Linux and SQL (2025)
-- ✅ Google Network Security (2025)
-- ✅ Google Automation with Python (2026)
-- ✅ IBM AI & Cloud Computing (2026)
+<p align="center">
+  <img src="https://img.shields.io/badge/Google-Automation%20with%20Python-4285F4?style=flat-square&logo=google" />
+  <img src="https://img.shields.io/badge/Google-Linux%20%26%20SQL-4285F4?style=flat-square&logo=google" />
+  <img src="https://img.shields.io/badge/Google-Network%20Security-4285F4?style=flat-square&logo=google" />
+  <br/>
+  <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM-AI%20%26%20Cloud%20Computing-052FAD?style=flat-square&logo=ibm" />
+  <img src="https://img.shields.io/badge/Coursera-REST%20API%20Testing%20(Postman)-0056D2?style=flat-square&logo=coursera&logoColor=white" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 📊 Stats Dashboard
 
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=C77DFF&icon_color=ff7edb&text_color=ffffff" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=1a1b27&ring=C77DFF&fire=ff7edb&currStreakLabel=C77DFF" width="48%" />
+</div>
 
-<a href="https://linkedin.com/in/mohamadkaifshaik">
-  <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:mohamadkaifshaik20@gmail.com">
-  <img src="https://img.shields.io/badge/-Say%20Hello-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=C77DFF&text_color=ffffff" width="48%" />
+</div>
 
-<br/><br/>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&margin-w=8&row=1" width="90%" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer" width="100%"/>
+> ⚠️ Replace `YOUR_GITHUB_USERNAME` in the URLs above with your actual GitHub username for these widgets to render your live stats.
+
+---
+
+## 🌙 Contact the Guild
+
+<p align="center">
+  <a href="mailto:mohamadkaifshaik20@gmail.com"><img src="https://img.shields.io/badge/Email-mohamadkaifshaik20%40gmail.com-C77DFF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <br/>
+  <img src="https://img.shields.io/badge/Phone-8309993938-6E48AA?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E48AA,100:9D50BB&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
