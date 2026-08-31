@@ -102,17 +102,17 @@ Eliminated duplicate billing records from concurrent webhook deliveries using Po
 ## 📊 Stats Dashboard
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mohamadkaifshaik&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=1a1b27&amp;title_color=C77DFF&amp;icon_color=ff7edb&amp;text_color=ffffff" width="48%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=mohamadkaifshaik&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=1a1b27&amp;title_color=C77DFF&amp;icon_color=ff7edb&amp;text_color=ffffff" width="48%" /> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadkaifshaik&amp;theme=radical&amp;hide_border=true&amp;background=1a1b27&amp;ring=C77DFF&amp;fire=ff7edb&amp;currStreakLabel=C77DFF" width="48%" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadkaifshaik&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=1a1b27&amp;title_color=C77DFF&amp;text_color=ffffff" width="48%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadkaifshaik&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=1a1b27&amp;title_color=C77DFF&amp;text_color=ffffff" width="48%" /> -->
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mohamadkaifshaik&amp;theme=radical&amp;no-frame=true&amp;margin-w=8&amp;row=1" width="90%" />
-</div>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=mohamadkaifshaik&amp;theme=radical&amp;no-frame=true&amp;margin-w=8&amp;row=1" width="90%" />
+</div> -->
 
 ---
 
