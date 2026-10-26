@@ -1,6 +1,6 @@
 <!--
   Mohamad Kaif Shaik — GitHub profile README
-  Palette: midnight #10070C · dark wine #190B12 · burgundy #451126 · wine #701A3D · rose #C77B9B · pale rose #E5B5C7 · ivory #F8F0F3
+  Palette (Deep Space Sapphire): void #050A1A · deep navy #0B1430 · sapphire #143A8C · electric blue #2F6BFF · ice #8FC3FF · pale ice #C9E4FF · starlight #F2F7FF
   All hero/footer/achievement artwork lives in ./assets as hand-written SVG (SMIL animation, static fallbacks for reduced motion).
 -->
 
@@ -12,10 +12,10 @@
 </picture>
 
 <p>
-  <a href="https://github.com/mohamadkaifshaik"><img src="https://img.shields.io/badge/GitHub-mohamadkaifshaik-10070C?style=flat-square&amp;logo=github&amp;logoColor=E5B5C7&amp;labelColor=451126" alt="GitHub: mohamadkaifshaik"></a>
-  <a href="mailto:mohamadkaifshaik20@gmail.com"><img src="https://img.shields.io/badge/Email-mohamadkaifshaik20%40gmail.com-10070C?style=flat-square&amp;logo=gmail&amp;logoColor=E5B5C7&amp;labelColor=451126" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Based%20in-Bangalore%2C%20India-10070C?style=flat-square&amp;labelColor=451126" alt="Based in Bangalore, India">
-  <img src="https://img.shields.io/badge/Open%20to-AI%20Engineer%20%2F%20Data%20Science%20roles-10070C?style=flat-square&amp;labelColor=701A3D" alt="Open to AI Engineer / Data Science roles">
+  <a href="https://github.com/mohamadkaifshaik"><img src="https://img.shields.io/badge/GitHub-mohamadkaifshaik-050A1A?style=flat-square&amp;logo=github&amp;logoColor=C9E4FF&amp;labelColor=143A8C" alt="GitHub: mohamadkaifshaik"></a>
+  <a href="mailto:mohamadkaifshaik20@gmail.com"><img src="https://img.shields.io/badge/Email-mohamadkaifshaik20%40gmail.com-050A1A?style=flat-square&amp;logo=gmail&amp;logoColor=C9E4FF&amp;labelColor=143A8C" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Based%20in-Bangalore%2C%20India-050A1A?style=flat-square&amp;labelColor=143A8C" alt="Based in Bangalore, India">
+  <img src="https://img.shields.io/badge/Open%20to-AI%20Engineer%20%2F%20Data%20Science%20roles-050A1A?style=flat-square&amp;labelColor=2F6BFF" alt="Open to AI Engineer / Data Science roles">
 </p>
 
 </div>
@@ -161,18 +161,18 @@ Take-home fix of a misbehaving Go webhook service: idempotent ingestion with Pos
 ## <samp>05</samp>&ensp;Contributions
 
 <p align="center">
-  <a href="https://github.com/mohamadkaifshaik"><img src="https://ghchart.rshah.org/701A3D/mohamadkaifshaik" width="100%" alt="Mohamad Kaif Shaik's GitHub contribution heatmap for the last year"></a>
+  <a href="https://github.com/mohamadkaifshaik"><img src="https://ghchart.rshah.org/2F6BFF/mohamadkaifshaik" width="100%" alt="Mohamad Kaif Shaik's GitHub contribution heatmap for the last year"></a>
 </p>
 <p align="center"><sub>Live contribution data from GitHub, rendered by ghchart.rshah.org.</sub></p>
 
 ## <samp>06</samp>&ensp;Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamadkaifshaik&amp;show_icons=true&amp;hide_rank=true&amp;bg_color=10070C&amp;title_color=E5B5C7&amp;icon_color=C77B9B&amp;text_color=F8F0F3&amp;border_color=451126&amp;border_radius=12" height="165" alt="GitHub statistics for mohamadkaifshaik">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadkaifshaik&amp;layout=compact&amp;langs_count=8&amp;bg_color=10070C&amp;title_color=E5B5C7&amp;text_color=F8F0F3&amp;border_color=451126&amp;border_radius=12" height="165" alt="Most used languages for mohamadkaifshaik">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamadkaifshaik&amp;show_icons=true&amp;hide_rank=true&amp;bg_color=050A1A&amp;title_color=C9E4FF&amp;icon_color=8FC3FF&amp;text_color=F2F7FF&amp;border_color=143A8C&amp;border_radius=12" height="165" alt="GitHub statistics for mohamadkaifshaik">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadkaifshaik&amp;layout=compact&amp;langs_count=8&amp;bg_color=050A1A&amp;title_color=C9E4FF&amp;text_color=F2F7FF&amp;border_color=143A8C&amp;border_radius=12" height="165" alt="Most used languages for mohamadkaifshaik">
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohamadkaifshaik&amp;background=10070C&amp;border=451126&amp;ring=C77B9B&amp;fire=E5B5C7&amp;currStreakNum=F8F0F3&amp;sideNums=F8F0F3&amp;currStreakLabel=C77B9B&amp;sideLabels=E5B5C7&amp;dates=C77B9B&amp;border_radius=12" height="165" alt="GitHub contribution streak for mohamadkaifshaik">
+  <img src="https://streak-stats.demolab.com?user=mohamadkaifshaik&amp;background=050A1A&amp;border=143A8C&amp;ring=8FC3FF&amp;fire=C9E4FF&amp;currStreakNum=F2F7FF&amp;sideNums=F2F7FF&amp;currStreakLabel=8FC3FF&amp;sideLabels=C9E4FF&amp;dates=8FC3FF&amp;border_radius=12" height="165" alt="GitHub contribution streak for mohamadkaifshaik">
 </p>
 <p align="center"><sub>Live figures computed by github-readme-stats and streak-stats from public GitHub activity.</sub></p>
 

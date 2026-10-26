@@ -1,68 +1,58 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="mks-hero-title mks-hero-desc">
   <title id="mks-hero-title">Mohamad Kaif Shaik — AI/ML Engineer, Full-Stack Developer, Creative Technologist</title>
-  <desc id="mks-hero-desc">Burgundy editorial hero banner with a fine technical grid, orbital geometry and a flowing animated line.</desc>
+  <desc id="mks-hero-desc">Deep-space sapphire hero banner with a sparse star field, nebula glow, orbital geometry and a flowing animated line.</desc>
 
   <defs>
     <!-- Background -->
     <linearGradient id="mks-hero-bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#10070C"/>
-      <stop offset="0.6" stop-color="#190B12"/>
-      <stop offset="1" stop-color="#451126"/>
+      <stop offset="0" stop-color="#050A1A"/>
+      <stop offset="0.6" stop-color="#0B1430"/>
+      <stop offset="1" stop-color="#143A8C"/>
     </linearGradient>
 
-    <!-- Slow-breathing wine glow behind the orbital geometry -->
+    <!-- Slow-breathing sapphire glow behind the orbital geometry -->
     <radialGradient id="mks-hero-glow-a" cx="0.8" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#701A3D" stop-opacity="0.6"/>
-      <stop offset="0.45" stop-color="#451126" stop-opacity="0.25"/>
-      <stop offset="1" stop-color="#10070C" stop-opacity="0"/>
+      <stop offset="0" stop-color="#2F6BFF" stop-opacity="0.6"/>
+      <stop offset="0.45" stop-color="#143A8C" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#050A1A" stop-opacity="0"/>
       <animate attributeName="r" values="0.42;0.56;0.42" dur="10s" repeatCount="indefinite"/>
     </radialGradient>
 
-    <!-- Soft rose bloom bottom-left -->
+    <!-- Soft ice bloom bottom-left -->
     <radialGradient id="mks-hero-glow-b" cx="0.08" cy="1" r="0.45">
-      <stop offset="0" stop-color="#C77B9B" stop-opacity="0.22"/>
-      <stop offset="1" stop-color="#C77B9B" stop-opacity="0"/>
+      <stop offset="0" stop-color="#8FC3FF" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#8FC3FF" stop-opacity="0"/>
       <animate attributeName="cx" values="0.06;0.14;0.06" dur="14s" repeatCount="indefinite"/>
     </radialGradient>
 
-    <!-- Fine technical grid -->
-    <pattern id="mks-hero-grid-minor" width="24" height="24" patternUnits="userSpaceOnUse">
-      <path d="M24 0H0V24" fill="none" stroke="#C77B9B" stroke-opacity="0.10" stroke-width="0.6"/>
-    </pattern>
-    <pattern id="mks-hero-grid-major" width="120" height="120" patternUnits="userSpaceOnUse">
-      <path d="M120 0H0V120" fill="none" stroke="#E5B5C7" stroke-opacity="0.14" stroke-width="0.8"/>
-    </pattern>
+    <!-- Nebula glow behind the typography -->
+    <radialGradient id="mks-hero-nebula" cx="0.22" cy="0.42" r="0.5">
+      <stop offset="0" stop-color="#2F6BFF" stop-opacity="0.28"/>
+      <stop offset="0.5" stop-color="#143A8C" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#050A1A" stop-opacity="0"/>
+      <animate attributeName="cy" values="0.40;0.48;0.40" dur="16s" repeatCount="indefinite"/>
+    </radialGradient>
 
-    <!-- Mask: grid fades out toward the left so the typography stays clean -->
-    <linearGradient id="mks-hero-grid-fade" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#ffffff" stop-opacity="0.12"/>
-      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.55"/>
-      <stop offset="1" stop-color="#ffffff" stop-opacity="1"/>
-    </linearGradient>
-    <mask id="mks-hero-grid-mask">
-      <rect width="1200" height="420" fill="url(#mks-hero-grid-fade)"/>
-    </mask>
-
-    <!-- Moving ivory/rose sheen across the name -->
+    <!-- Moving starlight/ice sheen across the name -->
     <linearGradient id="mks-hero-sheen" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#F8F0F3"/>
-      <stop offset="0.38" stop-color="#E5B5C7"/>
-      <stop offset="0.5" stop-color="#F8F0F3"/>
-      <stop offset="0.62" stop-color="#C77B9B"/>
-      <stop offset="1" stop-color="#F8F0F3"/>
+      <stop offset="0" stop-color="#F2F7FF"/>
+      <stop offset="0.38" stop-color="#C9E4FF"/>
+      <stop offset="0.5" stop-color="#F2F7FF"/>
+      <stop offset="0.62" stop-color="#8FC3FF"/>
+      <stop offset="1" stop-color="#F2F7FF"/>
       <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0" dur="7s" repeatCount="indefinite"/>
     </linearGradient>
 
     <!-- Line gradient for paths, underline and rules -->
     <linearGradient id="mks-hero-line" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#701A3D"/>
-      <stop offset="0.5" stop-color="#C77B9B"/>
-      <stop offset="1" stop-color="#E5B5C7"/>
+      <stop offset="0" stop-color="#2F6BFF"/>
+      <stop offset="0.5" stop-color="#8FC3FF"/>
+      <stop offset="1" stop-color="#C9E4FF"/>
     </linearGradient>
     <linearGradient id="mks-hero-rule" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#C77B9B" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#C77B9B" stop-opacity="0.8"/>
-      <stop offset="1" stop-color="#C77B9B" stop-opacity="0"/>
+      <stop offset="0" stop-color="#8FC3FF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#8FC3FF" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#8FC3FF" stop-opacity="0"/>
     </linearGradient>
 
     <!-- Glow filters -->
@@ -78,13 +68,82 @@
   <rect width="1200" height="420" rx="20" fill="url(#mks-hero-bg)"/>
   <rect width="1200" height="420" rx="20" fill="url(#mks-hero-glow-a)"/>
   <rect width="1200" height="420" rx="20" fill="url(#mks-hero-glow-b)"/>
-  <g mask="url(#mks-hero-grid-mask)">
-    <rect width="1200" height="420" rx="20" fill="url(#mks-hero-grid-minor)"/>
-    <rect width="1200" height="420" rx="20" fill="url(#mks-hero-grid-major)"/>
+  <rect width="1200" height="420" rx="20" fill="url(#mks-hero-nebula)"/>
+
+  <!-- Sparse star field -->
+  <g>
+    <circle cx="1017.6" cy="59.0" r="0.9" fill="#8FC3FF" opacity="0.84"/>
+    <circle cx="891.2" cy="242.9" r="0.9" fill="#F2F7FF" opacity="0.35"><animate attributeName="opacity" values="0.35;0.09;0.35" dur="5.8s" begin="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="965.1" cy="280.4" r="1.1" fill="#C9E4FF" opacity="0.47"><animate attributeName="opacity" values="0.47;0.12;0.47" dur="6.5s" begin="1.8s" repeatCount="indefinite"/></circle>
+    <circle cx="858.8" cy="54.1" r="1.8" fill="#8FC3FF" opacity="0.51"><animate attributeName="opacity" values="0.51;0.13;0.51" dur="5.1s" begin="3.6s" repeatCount="indefinite"/></circle>
+    <circle cx="378.4" cy="342.2" r="1.1" fill="#8FC3FF" opacity="0.55"><animate attributeName="opacity" values="0.55;0.14;0.55" dur="6.1s" begin="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="1026.0" cy="181.7" r="1.8" fill="#8FC3FF" opacity="0.83"/>
+    <circle cx="320.0" cy="179.6" r="1.4" fill="#F2F7FF" opacity="0.63"/>
+    <circle cx="908.4" cy="330.9" r="1.8" fill="#F2F7FF" opacity="0.84"/>
+    <circle cx="518.1" cy="74.1" r="0.9" fill="#F2F7FF" opacity="0.82"/>
+    <circle cx="549.9" cy="198.4" r="1.8" fill="#8FC3FF" opacity="0.49"/>
+    <circle cx="376.8" cy="323.9" r="1.8" fill="#8FC3FF" opacity="0.73"><animate attributeName="opacity" values="0.73;0.18;0.73" dur="3.7s" begin="1.3s" repeatCount="indefinite"/></circle>
+    <circle cx="1089.0" cy="118.8" r="1.4" fill="#8FC3FF" opacity="0.61"/>
+    <circle cx="667.1" cy="364.8" r="1.1" fill="#F2F7FF" opacity="0.52"><animate attributeName="opacity" values="0.52;0.13;0.52" dur="5.4s" begin="4.8s" repeatCount="indefinite"/></circle>
+    <circle cx="320.2" cy="370.3" r="0.9" fill="#8FC3FF" opacity="0.88"/>
+    <circle cx="772.3" cy="363.2" r="1.1" fill="#8FC3FF" opacity="0.4"><animate attributeName="opacity" values="0.4;0.1;0.4" dur="6.2s" begin="0.5s" repeatCount="indefinite"/></circle>
+    <circle cx="543.4" cy="227.7" r="1.8" fill="#F2F7FF" opacity="0.79"><animate attributeName="opacity" values="0.79;0.2;0.79" dur="2.7s" begin="2.7s" repeatCount="indefinite"/></circle>
+    <circle cx="26.0" cy="272.5" r="1.8" fill="#8FC3FF" opacity="0.77"/>
+    <circle cx="1107.5" cy="227.4" r="1.4" fill="#C9E4FF" opacity="0.67"><animate attributeName="opacity" values="0.67;0.17;0.67" dur="5.2s" begin="4.7s" repeatCount="indefinite"/></circle>
+    <circle cx="928.8" cy="367.7" r="1.1" fill="#8FC3FF" opacity="0.63"/>
+    <circle cx="143.1" cy="357.4" r="0.7" fill="#C9E4FF" opacity="0.81"/>
+    <circle cx="1116.3" cy="29.7" r="1.4" fill="#C9E4FF" opacity="0.53"/>
+    <circle cx="1080.2" cy="209.1" r="1.4" fill="#F2F7FF" opacity="0.66"><animate attributeName="opacity" values="0.66;0.17;0.66" dur="4.6s" begin="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="1088.9" cy="37.2" r="1.8" fill="#F2F7FF" opacity="0.86"/>
+    <circle cx="895.5" cy="91.6" r="0.7" fill="#F2F7FF" opacity="0.42"/>
+    <circle cx="619.5" cy="383.5" r="0.9" fill="#F2F7FF" opacity="0.71"><animate attributeName="opacity" values="0.71;0.18;0.71" dur="4.2s" begin="2.1s" repeatCount="indefinite"/></circle>
+    <circle cx="579.2" cy="65.6" r="1.8" fill="#F2F7FF" opacity="0.79"/>
+    <circle cx="288.3" cy="382.4" r="1.4" fill="#8FC3FF" opacity="0.71"/>
+    <circle cx="986.9" cy="341.6" r="0.9" fill="#C9E4FF" opacity="0.88"/>
+    <circle cx="891.4" cy="297.8" r="1.8" fill="#C9E4FF" opacity="0.51"/>
+    <circle cx="525.8" cy="60.3" r="0.7" fill="#F2F7FF" opacity="0.77"/>
+    <circle cx="94.1" cy="374.1" r="0.9" fill="#F2F7FF" opacity="0.49"><animate attributeName="opacity" values="0.49;0.12;0.49" dur="6.0s" begin="4.5s" repeatCount="indefinite"/></circle>
+    <circle cx="318.2" cy="386.9" r="0.7" fill="#F2F7FF" opacity="0.4"><animate attributeName="opacity" values="0.4;0.1;0.4" dur="2.9s" begin="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="1166.2" cy="345.8" r="1.1" fill="#F2F7FF" opacity="0.78"/>
+    <circle cx="1155.8" cy="353.8" r="1.1" fill="#C9E4FF" opacity="0.82"><animate attributeName="opacity" values="0.82;0.2;0.82" dur="6.3s" begin="1.8s" repeatCount="indefinite"/></circle>
+    <circle cx="873.0" cy="186.0" r="0.7" fill="#C9E4FF" opacity="0.5"><animate attributeName="opacity" values="0.5;0.12;0.5" dur="6.3s" begin="4.0s" repeatCount="indefinite"/></circle>
+    <circle cx="1067.4" cy="226.0" r="1.1" fill="#F2F7FF" opacity="0.46"/>
+    <circle cx="780.7" cy="30.9" r="1.8" fill="#8FC3FF" opacity="0.42"><animate attributeName="opacity" values="0.42;0.1;0.42" dur="3.5s" begin="2.1s" repeatCount="indefinite"/></circle>
+    <circle cx="274.7" cy="67.6" r="1.8" fill="#8FC3FF" opacity="0.37"/>
+    <circle cx="932.5" cy="106.7" r="0.7" fill="#8FC3FF" opacity="0.5"><animate attributeName="opacity" values="0.5;0.12;0.5" dur="6.3s" begin="0.7s" repeatCount="indefinite"/></circle>
+    <circle cx="747.1" cy="54.0" r="0.9" fill="#C9E4FF" opacity="0.65"><animate attributeName="opacity" values="0.65;0.16;0.65" dur="4.6s" begin="3.7s" repeatCount="indefinite"/></circle>
+    <circle cx="85.3" cy="339.4" r="0.9" fill="#F2F7FF" opacity="0.61"/>
+    <circle cx="1020.0" cy="372.3" r="1.4" fill="#C9E4FF" opacity="0.74"/>
+    <circle cx="289.7" cy="335.0" r="1.1" fill="#C9E4FF" opacity="0.82"><animate attributeName="opacity" values="0.82;0.2;0.82" dur="5.0s" begin="2.7s" repeatCount="indefinite"/></circle>
+    <circle cx="1056.8" cy="381.2" r="1.8" fill="#F2F7FF" opacity="0.74"/>
+    <circle cx="180.0" cy="301.0" r="0.7" fill="#C9E4FF" opacity="0.64"/>
+    <circle cx="1128.4" cy="164.6" r="1.8" fill="#F2F7FF" opacity="0.8"/>
+    <circle cx="141.7" cy="73.9" r="1.4" fill="#C9E4FF" opacity="0.53"><animate attributeName="opacity" values="0.53;0.13;0.53" dur="5.4s" begin="3.3s" repeatCount="indefinite"/></circle>
+    <circle cx="240.1" cy="361.6" r="1.1" fill="#C9E4FF" opacity="0.65"><animate attributeName="opacity" values="0.65;0.16;0.65" dur="4.1s" begin="4.9s" repeatCount="indefinite"/></circle>
+    <circle cx="750.6" cy="342.0" r="1.4" fill="#C9E4FF" opacity="0.87"/>
+    <circle cx="1066.5" cy="392.0" r="1.8" fill="#F2F7FF" opacity="0.44"><animate attributeName="opacity" values="0.44;0.11;0.44" dur="4.7s" begin="0.8s" repeatCount="indefinite"/></circle>
+    <circle cx="1049.1" cy="215.7" r="0.7" fill="#F2F7FF" opacity="0.81"><animate attributeName="opacity" values="0.81;0.2;0.81" dur="3.4s" begin="0.8s" repeatCount="indefinite"/></circle>
+    <circle cx="727.6" cy="68.1" r="1.1" fill="#F2F7FF" opacity="0.62"><animate attributeName="opacity" values="0.62;0.15;0.62" dur="5.0s" begin="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="423.4" cy="365.6" r="0.7" fill="#F2F7FF" opacity="0.66"/>
+    <circle cx="812.9" cy="193.3" r="1.8" fill="#F2F7FF" opacity="0.54"/>
+    <circle cx="893.8" cy="105.9" r="1.1" fill="#C9E4FF" opacity="0.59"><animate attributeName="opacity" values="0.59;0.15;0.59" dur="6.1s" begin="3.3s" repeatCount="indefinite"/></circle>
+    <circle cx="557.1" cy="348.9" r="1.1" fill="#C9E4FF" opacity="0.77"><animate attributeName="opacity" values="0.77;0.19;0.77" dur="5.7s" begin="1.9s" repeatCount="indefinite"/></circle>
+    <circle cx="168.0" cy="121.7" r="1.1" fill="#8FC3FF" opacity="0.5"><animate attributeName="opacity" values="0.5;0.12;0.5" dur="4.7s" begin="1.3s" repeatCount="indefinite"/></circle>
+    <circle cx="404.9" cy="74.5" r="0.7" fill="#8FC3FF" opacity="0.5"/>
+    <circle cx="495.2" cy="56.1" r="1.4" fill="#F2F7FF" opacity="0.85"><animate attributeName="opacity" values="0.85;0.21;0.85" dur="5.1s" begin="0.3s" repeatCount="indefinite"/></circle>
+    <circle cx="483.7" cy="85.7" r="1.1" fill="#C9E4FF" opacity="0.66"><animate attributeName="opacity" values="0.66;0.17;0.66" dur="4.8s" begin="3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="986.2" cy="324.8" r="1.4" fill="#F2F7FF" opacity="0.54"/>
+    <circle cx="758.1" cy="271.1" r="1.1" fill="#F2F7FF" opacity="0.36"/>
+    <circle cx="1159.8" cy="79.2" r="0.9" fill="#F2F7FF" opacity="0.87"/>
+    <circle cx="845.7" cy="278.8" r="1.8" fill="#F2F7FF" opacity="0.42"><animate attributeName="opacity" values="0.42;0.1;0.42" dur="4.2s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <path d="M1098 77V91M1091 84H1105" stroke="#C9E4FF" stroke-width="0.8" stroke-opacity="0.8"><animate attributeName="stroke-opacity" values="0.8;0.2;0.8" dur="4s" begin="3.0s" repeatCount="indefinite"/></path>
+    <path d="M212 367V377M207 372H217" stroke="#C9E4FF" stroke-width="0.8" stroke-opacity="0.8"><animate attributeName="stroke-opacity" values="0.8;0.2;0.8" dur="4s" begin="1.0s" repeatCount="indefinite"/></path>
+    <path d="M806 112V124M800 118H812" stroke="#C9E4FF" stroke-width="0.8" stroke-opacity="0.8"><animate attributeName="stroke-opacity" values="0.8;0.2;0.8" dur="4s" begin="0.5s" repeatCount="indefinite"/></path>
+    <path d="M1150 334V342M1146 338H1154" stroke="#C9E4FF" stroke-width="0.8" stroke-opacity="0.8"><animate attributeName="stroke-opacity" values="0.8;0.2;0.8" dur="4s" begin="1.0s" repeatCount="indefinite"/></path>
   </g>
 
   <!-- Editorial crop marks -->
-  <g fill="none" stroke="#C77B9B" stroke-opacity="0.55" stroke-width="1">
+  <g fill="none" stroke="#8FC3FF" stroke-opacity="0.55" stroke-width="1">
     <path d="M30 46V30H46"/>
     <path d="M1154 30H1170V46"/>
     <path d="M30 374V390H46"/>
@@ -95,20 +154,20 @@
   <g transform="translate(965 212)">
     <!-- Outer dotted ring, slow rotation -->
     <g>
-      <circle r="156" fill="none" stroke="#C77B9B" stroke-opacity="0.35" stroke-width="0.9" stroke-dasharray="1.5 9"/>
+      <circle r="156" fill="none" stroke="#8FC3FF" stroke-opacity="0.35" stroke-width="0.9" stroke-dasharray="1.5 9"/>
       <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="70s" repeatCount="indefinite"/>
     </g>
     <!-- Mid ring -->
-    <circle r="104" fill="none" stroke="#E5B5C7" stroke-opacity="0.18" stroke-width="0.8"/>
+    <circle r="104" fill="none" stroke="#C9E4FF" stroke-opacity="0.18" stroke-width="0.8"/>
     <!-- Inner ring -->
-    <circle r="54" fill="none" stroke="#701A3D" stroke-opacity="0.9" stroke-width="1"/>
+    <circle r="54" fill="none" stroke="#2F6BFF" stroke-opacity="0.9" stroke-width="1"/>
 
     <!-- Tilted orbit with a travelling satellite -->
     <g transform="rotate(-24)">
-      <ellipse rx="214" ry="66" fill="none" stroke="#E5B5C7" stroke-opacity="0.28" stroke-width="0.9"/>
+      <ellipse rx="214" ry="66" fill="none" stroke="#C9E4FF" stroke-opacity="0.28" stroke-width="0.9"/>
       <g>
-        <circle r="7" fill="#F8F0F3" opacity="0.55" filter="url(#mks-hero-blur-dot)"/>
-        <circle r="3" fill="#F8F0F3"/>
+        <circle r="7" fill="#F2F7FF" opacity="0.55" filter="url(#mks-hero-blur-dot)"/>
+        <circle r="3" fill="#F2F7FF"/>
         <animateMotion dur="16s" repeatCount="indefinite" path="M214 0A214 66 0 1 1 -214 0A214 66 0 1 1 214 0"/>
       </g>
       <animateTransform attributeName="transform" type="rotate" values="-24;-18;-24" dur="22s" repeatCount="indefinite"/>
@@ -116,17 +175,17 @@
 
     <!-- Secondary satellite on the mid ring, counter-direction -->
     <g>
-      <circle r="2.6" fill="#C77B9B"/>
+      <circle r="2.6" fill="#8FC3FF"/>
       <animateMotion dur="11s" repeatCount="indefinite" path="M-104 0A104 104 0 1 0 104 0A104 104 0 1 0 -104 0"/>
     </g>
 
     <!-- Core -->
-    <circle r="7" fill="#701A3D">
+    <circle r="7" fill="#2F6BFF">
       <animate attributeName="r" values="6;8.5;6" dur="4s" repeatCount="indefinite"/>
     </circle>
-    <circle r="2.4" fill="#F8F0F3"/>
+    <circle r="2.4" fill="#F2F7FF"/>
     <!-- Crosshair ticks -->
-    <g stroke="#E5B5C7" stroke-opacity="0.5" stroke-width="0.8">
+    <g stroke="#C9E4FF" stroke-opacity="0.5" stroke-width="0.8">
       <path d="M-170 0H-160M160 0H170M0 -170V-160M0 160V170"/>
     </g>
   </g>
@@ -135,7 +194,7 @@
   <path d="M-10 336C150 258 300 420 520 342S880 252 1210 334" fill="none" stroke="url(#mks-hero-line)" stroke-width="1.4" stroke-linecap="round" opacity="0.8" pathLength="1000" stroke-dasharray="1000" stroke-dashoffset="0">
     <animate attributeName="stroke-dashoffset" from="1000" to="0" dur="3.2s" fill="freeze"/>
   </path>
-  <path d="M-10 350C150 272 300 434 520 356S880 266 1210 348" fill="none" stroke="#E5B5C7" stroke-width="1.6" stroke-linecap="round" opacity="0.45" pathLength="1000" stroke-dasharray="1.5 12" stroke-dashoffset="0">
+  <path d="M-10 350C150 272 300 434 520 356S880 266 1210 348" fill="none" stroke="#C9E4FF" stroke-width="1.6" stroke-linecap="round" opacity="0.45" pathLength="1000" stroke-dasharray="1.5 12" stroke-dashoffset="0">
     <animate attributeName="stroke-dashoffset" from="13.5" to="0" dur="1.4s" repeatCount="indefinite"/>
   </path>
 
@@ -144,7 +203,7 @@
   <rect x="48" y="92" width="1" height="226" fill="url(#mks-hero-rule)"/>
 
   <!-- Role line -->
-  <text x="72" y="120" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12.5" letter-spacing="3.2" fill="#C77B9B">AI/ML ENGINEER  ·  FULL-STACK DEVELOPER  ·  CREATIVE TECHNOLOGIST</text>
+  <text x="72" y="120" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12.5" letter-spacing="3.2" fill="#8FC3FF">AI/ML ENGINEER  ·  FULL-STACK DEVELOPER  ·  CREATIVE TECHNOLOGIST</text>
 
   <!-- Name -->
   <text x="70" y="202" font-family="Georgia,'Times New Roman','Playfair Display','Iowan Old Style',serif" font-size="70" letter-spacing="-1.2" fill="url(#mks-hero-sheen)">Mohamad Kaif <tspan font-style="italic">Shaik</tspan></text>
@@ -159,9 +218,9 @@
   </rect>
 
   <!-- Tagline -->
-  <text x="72" y="266" font-family="Inter,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17.5" fill="#E5B5C7" opacity="0.92">Turning data into deployed, production-ready systems.</text>
-  <text x="72" y="302" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" letter-spacing="2.4" fill="#C77B9B" opacity="0.85">BANGALORE, INDIA  ·  MCA, SRI VENKATESWARA UNIVERSITY</text>
+  <text x="72" y="266" font-family="Inter,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17.5" fill="#C9E4FF" opacity="0.92">Turning data into deployed, production-ready systems.</text>
+  <text x="72" y="302" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" letter-spacing="2.4" fill="#8FC3FF" opacity="0.85">BANGALORE, INDIA  ·  MCA, SRI VENKATESWARA UNIVERSITY</text>
 
   <!-- Coordinates, bottom-right -->
-  <text x="1136" y="394" text-anchor="end" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" letter-spacing="1.5" fill="#C77B9B" opacity="0.7">12.97° N  ·  77.59° E</text>
+  <text x="1136" y="394" text-anchor="end" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" letter-spacing="1.5" fill="#8FC3FF" opacity="0.7">12.97° N  ·  77.59° E</text>
 </svg>

@@ -3,19 +3,19 @@
 
   <defs>
     <linearGradient id="mks-footer-bg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#190B12"/>
-      <stop offset="1" stop-color="#10070C"/>
+      <stop offset="0" stop-color="#0B1430"/>
+      <stop offset="1" stop-color="#050A1A"/>
     </linearGradient>
     <linearGradient id="mks-footer-line" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#701A3D" stop-opacity="0"/>
-      <stop offset="0.2" stop-color="#701A3D"/>
-      <stop offset="0.5" stop-color="#C77B9B"/>
-      <stop offset="0.8" stop-color="#701A3D"/>
-      <stop offset="1" stop-color="#701A3D" stop-opacity="0"/>
+      <stop offset="0" stop-color="#2F6BFF" stop-opacity="0"/>
+      <stop offset="0.2" stop-color="#2F6BFF"/>
+      <stop offset="0.5" stop-color="#8FC3FF"/>
+      <stop offset="0.8" stop-color="#2F6BFF"/>
+      <stop offset="1" stop-color="#2F6BFF" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="mks-footer-tail" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#F8F0F3" stop-opacity="0"/>
-      <stop offset="1" stop-color="#F8F0F3" stop-opacity="0.9"/>
+      <stop offset="0" stop-color="#F2F7FF" stop-opacity="0"/>
+      <stop offset="1" stop-color="#F2F7FF" stop-opacity="0.9"/>
     </linearGradient>
     <filter id="mks-footer-blur" x="-200%" y="-200%" width="500%" height="500%">
       <feGaussianBlur stdDeviation="3"/>
@@ -24,8 +24,8 @@
 
   <rect width="1200" height="150" rx="20" fill="url(#mks-footer-bg)"/>
 
-  <!-- Faint grid echo -->
-  <g stroke="#C77B9B" stroke-opacity="0.08" stroke-width="0.6">
+  <!-- Faint rule echo -->
+  <g stroke="#8FC3FF" stroke-opacity="0.08" stroke-width="0.6">
     <path d="M0 30H1200M0 90H1200"/>
   </g>
 
@@ -33,25 +33,25 @@
   <rect x="60" y="59.5" width="1080" height="1" fill="url(#mks-footer-line)"/>
   <g>
     <rect x="-70" y="59" width="70" height="2" rx="1" fill="url(#mks-footer-tail)"/>
-    <circle cx="0" cy="60" r="6" fill="#F8F0F3" opacity="0.5" filter="url(#mks-footer-blur)"/>
-    <circle cx="0" cy="60" r="2.2" fill="#F8F0F3"/>
+    <circle cx="0" cy="60" r="6" fill="#F2F7FF" opacity="0.5" filter="url(#mks-footer-blur)"/>
+    <circle cx="0" cy="60" r="2.2" fill="#F2F7FF"/>
     <animateTransform attributeName="transform" type="translate" values="60 0;1140 0" dur="7s" repeatCount="indefinite"/>
   </g>
 
   <!-- Small orbital echo -->
-  <g transform="translate(1110 60)" fill="none" stroke="#C77B9B" stroke-opacity="0.55" stroke-width="0.8">
+  <g transform="translate(1110 60)" fill="none" stroke="#8FC3FF" stroke-opacity="0.55" stroke-width="0.8">
     <circle r="14"/>
-    <circle r="2" fill="#E5B5C7" stroke="none">
+    <circle r="2" fill="#C9E4FF" stroke="none">
       <animateMotion dur="5s" repeatCount="indefinite" path="M14 0A14 14 0 1 1 -14 0A14 14 0 1 1 14 0"/>
     </circle>
   </g>
-  <g transform="translate(90 60)" fill="none" stroke="#C77B9B" stroke-opacity="0.55" stroke-width="0.8">
+  <g transform="translate(90 60)" fill="none" stroke="#8FC3FF" stroke-opacity="0.55" stroke-width="0.8">
     <circle r="14"/>
-    <circle r="2" fill="#E5B5C7" stroke="none">
+    <circle r="2" fill="#C9E4FF" stroke="none">
       <animateMotion dur="5s" repeatCount="indefinite" path="M-14 0A14 14 0 1 0 14 0A14 14 0 1 0 -14 0"/>
     </circle>
   </g>
 
-  <text x="600" y="102" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" letter-spacing="3.5" fill="#C77B9B">MOHAMAD KAIF SHAIK  ·  BANGALORE, INDIA</text>
-  <text x="600" y="128" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="15" fill="#E5B5C7" opacity="0.85">Thanks for stopping by.</text>
+  <text x="600" y="102" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" letter-spacing="3.5" fill="#8FC3FF">MOHAMAD KAIF SHAIK  ·  BANGALORE, INDIA</text>
+  <text x="600" y="128" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="15" fill="#C9E4FF" opacity="0.85">Thanks for stopping by.</text>
 </svg>
