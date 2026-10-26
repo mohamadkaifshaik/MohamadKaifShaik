@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="mks-footer-title">
+  <title id="mks-footer-title">Mohamad Kaif Shaik — Bangalore, India. Thanks for stopping by. (static version)</title>
+
+  <defs>
+    <linearGradient id="mks-footer-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#190B12" />
+      <stop offset="1" stop-color="#10070C" />
+    </linearGradient>
+    <linearGradient id="mks-footer-line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#701A3D" stop-opacity="0" />
+      <stop offset="0.2" stop-color="#701A3D" />
+      <stop offset="0.5" stop-color="#C77B9B" />
+      <stop offset="0.8" stop-color="#701A3D" />
+      <stop offset="1" stop-color="#701A3D" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="mks-footer-tail" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F8F0F3" stop-opacity="0" />
+      <stop offset="1" stop-color="#F8F0F3" stop-opacity="0.9" />
+    </linearGradient>
+    <filter id="mks-footer-blur" x="-200%" y="-200%" width="500%" height="500%">
+      <feGaussianBlur stdDeviation="3" />
+    </filter>
+  </defs>
+
+  <rect width="1200" height="150" rx="20" fill="url(#mks-footer-bg)" />
+
+  
+  <g stroke="#C77B9B" stroke-opacity="0.08" stroke-width="0.6">
+    <path d="M0 30H1200M0 90H1200" />
+  </g>
+
+  
+  <rect x="60" y="59.5" width="1080" height="1" fill="url(#mks-footer-line)" />
+  <g transform="translate(600 0)">
+    <rect x="-70" y="59" width="70" height="2" rx="1" fill="url(#mks-footer-tail)" />
+    <circle cx="0" cy="60" r="6" fill="#F8F0F3" opacity="0.5" filter="url(#mks-footer-blur)" />
+    <circle cx="0" cy="60" r="2.2" fill="#F8F0F3" />
+    </g>
+
+  
+  <g transform="translate(1110 60)" fill="none" stroke="#C77B9B" stroke-opacity="0.55" stroke-width="0.8">
+    <circle r="14" />
+    <circle r="2" fill="#E5B5C7" stroke="none" transform="translate(14 0)">
+      </circle>
+  </g>
+  <g transform="translate(90 60)" fill="none" stroke="#C77B9B" stroke-opacity="0.55" stroke-width="0.8">
+    <circle r="14" />
+    <circle r="2" fill="#E5B5C7" stroke="none" transform="translate(-14 0)">
+      </circle>
+  </g>
+
+  <text x="600" y="102" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" letter-spacing="3.5" fill="#C77B9B">MOHAMAD KAIF SHAIK  ·  BANGALORE, INDIA</text>
+  <text x="600" y="128" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="15" fill="#E5B5C7" opacity="0.85">Thanks for stopping by.</text>
+</svg>
